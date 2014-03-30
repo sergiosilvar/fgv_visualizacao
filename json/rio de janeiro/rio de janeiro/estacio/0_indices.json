@@ -1,0 +1,668 @@
+[
+  {
+    "Mes": 1,
+    "Ano": 2008,
+    "ValorTexto": "1210.893",
+    "Valor": 1210.893,
+    "Variacao": 0.0,
+    "VariacaoMensal": 0.0,
+    "Amostra": 9
+  },
+  {
+    "Mes": 2,
+    "Ano": 2008,
+    "ValorTexto": "1193.6141",
+    "Valor": 1193.6141,
+    "Variacao": -1.43,
+    "VariacaoMensal": -1.43,
+    "Amostra": 6
+  },
+  {
+    "Mes": 3,
+    "Ano": 2008,
+    "ValorTexto": "1285.505",
+    "Valor": 1285.505,
+    "Variacao": 6.16,
+    "VariacaoMensal": 7.7,
+    "Amostra": 7
+  },
+  {
+    "Mes": 4,
+    "Ano": 2008,
+    "ValorTexto": "1268.8045",
+    "Valor": 1268.8045,
+    "Variacao": 4.78,
+    "VariacaoMensal": -1.3,
+    "Amostra": 8
+  },
+  {
+    "Mes": 5,
+    "Ano": 2008,
+    "ValorTexto": "1389.6532",
+    "Valor": 1389.6532,
+    "Variacao": 14.76,
+    "VariacaoMensal": 9.52,
+    "Amostra": 9
+  },
+  {
+    "Mes": 6,
+    "Ano": 2008,
+    "ValorTexto": "1383.8386",
+    "Valor": 1383.8386,
+    "Variacao": 14.28,
+    "VariacaoMensal": -0.42,
+    "Amostra": 8
+  },
+  {
+    "Mes": 7,
+    "Ano": 2008,
+    "ValorTexto": "1619.634",
+    "Valor": 1619.634,
+    "Variacao": 33.76,
+    "VariacaoMensal": 17.04,
+    "Amostra": 8
+  },
+  {
+    "Mes": 8,
+    "Ano": 2008,
+    "ValorTexto": "1554.776",
+    "Valor": 1554.776,
+    "Variacao": 28.4,
+    "VariacaoMensal": -4.0,
+    "Amostra": 12
+  },
+  {
+    "Mes": 9,
+    "Ano": 2008,
+    "ValorTexto": "1627.7013",
+    "Valor": 1627.7013,
+    "Variacao": 34.42,
+    "VariacaoMensal": 4.69,
+    "Amostra": 24
+  },
+  {
+    "Mes": 10,
+    "Ano": 2008,
+    "ValorTexto": "1712.6575",
+    "Valor": 1712.6575,
+    "Variacao": 41.44,
+    "VariacaoMensal": 5.22,
+    "Amostra": 20
+  },
+  {
+    "Mes": 11,
+    "Ano": 2008,
+    "ValorTexto": "1565.2563",
+    "Valor": 1565.2563,
+    "Variacao": 29.26,
+    "VariacaoMensal": -8.61,
+    "Amostra": 21
+  },
+  {
+    "Mes": 12,
+    "Ano": 2008,
+    "ValorTexto": "1549.8678",
+    "Valor": 1549.8678,
+    "Variacao": 27.99,
+    "VariacaoMensal": -0.98,
+    "Amostra": 23
+  },
+  {
+    "Mes": 1,
+    "Ano": 2009,
+    "ValorTexto": "1563.7139",
+    "Valor": 1563.7139,
+    "Variacao": 29.14,
+    "VariacaoMensal": 0.89,
+    "Amostra": 22
+  },
+  {
+    "Mes": 2,
+    "Ano": 2009,
+    "ValorTexto": "1565.6111",
+    "Valor": 1565.6111,
+    "Variacao": 29.29,
+    "VariacaoMensal": 0.12,
+    "Amostra": 28
+  },
+  {
+    "Mes": 3,
+    "Ano": 2009,
+    "ValorTexto": "1529.8543",
+    "Valor": 1529.8543,
+    "Variacao": 26.34,
+    "VariacaoMensal": -2.28,
+    "Amostra": 29
+  },
+  {
+    "Mes": 4,
+    "Ano": 2009,
+    "ValorTexto": "1553.5118",
+    "Valor": 1553.5118,
+    "Variacao": 28.29,
+    "VariacaoMensal": 1.55,
+    "Amostra": 38
+  },
+  {
+    "Mes": 5,
+    "Ano": 2009,
+    "ValorTexto": "1629.787",
+    "Valor": 1629.787,
+    "Variacao": 34.59,
+    "VariacaoMensal": 4.91,
+    "Amostra": 32
+  },
+  {
+    "Mes": 6,
+    "Ano": 2009,
+    "ValorTexto": "1578.614",
+    "Valor": 1578.614,
+    "Variacao": 30.37,
+    "VariacaoMensal": -3.14,
+    "Amostra": 33
+  },
+  {
+    "Mes": 7,
+    "Ano": 2009,
+    "ValorTexto": "1727.3953",
+    "Valor": 1727.3953,
+    "Variacao": 42.65,
+    "VariacaoMensal": 9.42,
+    "Amostra": 30
+  },
+  {
+    "Mes": 8,
+    "Ano": 2009,
+    "ValorTexto": "1788.0019",
+    "Valor": 1788.0019,
+    "Variacao": 47.66,
+    "VariacaoMensal": 3.51,
+    "Amostra": 33
+  },
+  {
+    "Mes": 9,
+    "Ano": 2009,
+    "ValorTexto": "1885.5052",
+    "Valor": 1885.5052,
+    "Variacao": 55.71,
+    "VariacaoMensal": 5.45,
+    "Amostra": 41
+  },
+  {
+    "Mes": 10,
+    "Ano": 2009,
+    "ValorTexto": "1912.4941",
+    "Valor": 1912.4941,
+    "Variacao": 57.94,
+    "VariacaoMensal": 1.43,
+    "Amostra": 37
+  },
+  {
+    "Mes": 11,
+    "Ano": 2009,
+    "ValorTexto": "1942.614",
+    "Valor": 1942.614,
+    "Variacao": 60.43,
+    "VariacaoMensal": 1.57,
+    "Amostra": 26
+  },
+  {
+    "Mes": 12,
+    "Ano": 2009,
+    "ValorTexto": "2159.6765",
+    "Valor": 2159.6765,
+    "Variacao": 78.35,
+    "VariacaoMensal": 11.17,
+    "Amostra": 19
+  },
+  {
+    "Mes": 1,
+    "Ano": 2010,
+    "ValorTexto": "1937.8754",
+    "Valor": 1937.8754,
+    "Variacao": 60.04,
+    "VariacaoMensal": -10.27,
+    "Amostra": 25
+  },
+  {
+    "Mes": 2,
+    "Ano": 2010,
+    "ValorTexto": "2015.5251",
+    "Valor": 2015.5251,
+    "Variacao": 66.45,
+    "VariacaoMensal": 4.01,
+    "Amostra": 27
+  },
+  {
+    "Mes": 3,
+    "Ano": 2010,
+    "ValorTexto": "2071.4382",
+    "Valor": 2071.4382,
+    "Variacao": 71.07,
+    "VariacaoMensal": 2.77,
+    "Amostra": 28
+  },
+  {
+    "Mes": 4,
+    "Ano": 2010,
+    "ValorTexto": "2010.814",
+    "Valor": 2010.814,
+    "Variacao": 66.06,
+    "VariacaoMensal": -2.93,
+    "Amostra": 26
+  },
+  {
+    "Mes": 5,
+    "Ano": 2010,
+    "ValorTexto": "1879.8008",
+    "Valor": 1879.8008,
+    "Variacao": 55.24,
+    "VariacaoMensal": -6.52,
+    "Amostra": 36
+  },
+  {
+    "Mes": 6,
+    "Ano": 2010,
+    "ValorTexto": "2067.3993",
+    "Valor": 2067.3993,
+    "Variacao": 70.73,
+    "VariacaoMensal": 9.98,
+    "Amostra": 33
+  },
+  {
+    "Mes": 7,
+    "Ano": 2010,
+    "ValorTexto": "2199.2215",
+    "Valor": 2199.2215,
+    "Variacao": 81.62,
+    "VariacaoMensal": 6.38,
+    "Amostra": 34
+  },
+  {
+    "Mes": 8,
+    "Ano": 2010,
+    "ValorTexto": "2347.6667",
+    "Valor": 2347.6667,
+    "Variacao": 93.88,
+    "VariacaoMensal": 6.75,
+    "Amostra": 38
+  },
+  {
+    "Mes": 9,
+    "Ano": 2010,
+    "ValorTexto": "2515.7836",
+    "Valor": 2515.7836,
+    "Variacao": 107.76,
+    "VariacaoMensal": 7.16,
+    "Amostra": 54
+  },
+  {
+    "Mes": 10,
+    "Ano": 2010,
+    "ValorTexto": "2539.8939",
+    "Valor": 2539.8939,
+    "Variacao": 109.75,
+    "VariacaoMensal": 0.96,
+    "Amostra": 59
+  },
+  {
+    "Mes": 11,
+    "Ano": 2010,
+    "ValorTexto": "2785.4711",
+    "Valor": 2785.4711,
+    "Variacao": 130.03,
+    "VariacaoMensal": 9.67,
+    "Amostra": 64
+  },
+  {
+    "Mes": 12,
+    "Ano": 2010,
+    "ValorTexto": "2857.5549",
+    "Valor": 2857.5549,
+    "Variacao": 135.99,
+    "VariacaoMensal": 2.59,
+    "Amostra": 44
+  },
+  {
+    "Mes": 1,
+    "Ano": 2011,
+    "ValorTexto": "2947.3621",
+    "Valor": 2947.3621,
+    "Variacao": 143.4,
+    "VariacaoMensal": 3.14,
+    "Amostra": 53
+  },
+  {
+    "Mes": 2,
+    "Ano": 2011,
+    "ValorTexto": "3131.4818",
+    "Valor": 3131.4818,
+    "Variacao": 158.61,
+    "VariacaoMensal": 6.25,
+    "Amostra": 60
+  },
+  {
+    "Mes": 3,
+    "Ano": 2011,
+    "ValorTexto": "3358.1496",
+    "Valor": 3358.1496,
+    "Variacao": 177.33,
+    "VariacaoMensal": 7.24,
+    "Amostra": 72
+  },
+  {
+    "Mes": 4,
+    "Ano": 2011,
+    "ValorTexto": "3461.2235",
+    "Valor": 3461.2235,
+    "Variacao": 185.84,
+    "VariacaoMensal": 3.07,
+    "Amostra": 75
+  },
+  {
+    "Mes": 5,
+    "Ano": 2011,
+    "ValorTexto": "3332.5654",
+    "Valor": 3332.5654,
+    "Variacao": 175.22,
+    "VariacaoMensal": -3.72,
+    "Amostra": 58
+  },
+  {
+    "Mes": 6,
+    "Ano": 2011,
+    "ValorTexto": "3225.6301",
+    "Valor": 3225.6301,
+    "Variacao": 166.38,
+    "VariacaoMensal": -3.21,
+    "Amostra": 50
+  },
+  {
+    "Mes": 7,
+    "Ano": 2011,
+    "ValorTexto": "3644.0914",
+    "Valor": 3644.0914,
+    "Variacao": 200.94,
+    "VariacaoMensal": 12.97,
+    "Amostra": 33
+  },
+  {
+    "Mes": 8,
+    "Ano": 2011,
+    "ValorTexto": "3714.7294",
+    "Valor": 3714.7294,
+    "Variacao": 206.78,
+    "VariacaoMensal": 1.94,
+    "Amostra": 35
+  },
+  {
+    "Mes": 9,
+    "Ano": 2011,
+    "ValorTexto": "4100.1027",
+    "Valor": 4100.1027,
+    "Variacao": 238.6,
+    "VariacaoMensal": 10.37,
+    "Amostra": 43
+  },
+  {
+    "Mes": 10,
+    "Ano": 2011,
+    "ValorTexto": "3970.7035",
+    "Valor": 3970.7035,
+    "Variacao": 227.92,
+    "VariacaoMensal": -3.16,
+    "Amostra": 50
+  },
+  {
+    "Mes": 11,
+    "Ano": 2011,
+    "ValorTexto": "3937.8663",
+    "Valor": 3937.8663,
+    "Variacao": 225.2,
+    "VariacaoMensal": -0.83,
+    "Amostra": 59
+  },
+  {
+    "Mes": 12,
+    "Ano": 2011,
+    "ValorTexto": "4150.7499",
+    "Valor": 4150.7499,
+    "Variacao": 242.78,
+    "VariacaoMensal": 5.41,
+    "Amostra": 53
+  },
+  {
+    "Mes": 1,
+    "Ano": 2012,
+    "ValorTexto": "3870.976",
+    "Valor": 3870.976,
+    "Variacao": 219.68,
+    "VariacaoMensal": -6.74,
+    "Amostra": 65
+  },
+  {
+    "Mes": 2,
+    "Ano": 2012,
+    "ValorTexto": "3900.4141",
+    "Valor": 3900.4141,
+    "Variacao": 222.11,
+    "VariacaoMensal": 0.76,
+    "Amostra": 46
+  },
+  {
+    "Mes": 3,
+    "Ano": 2012,
+    "ValorTexto": "3812.1622",
+    "Valor": 3812.1622,
+    "Variacao": 214.82,
+    "VariacaoMensal": -2.26,
+    "Amostra": 48
+  },
+  {
+    "Mes": 4,
+    "Ano": 2012,
+    "ValorTexto": "4102.7524",
+    "Valor": 4102.7524,
+    "Variacao": 238.82,
+    "VariacaoMensal": 7.62,
+    "Amostra": 46
+  },
+  {
+    "Mes": 5,
+    "Ano": 2012,
+    "ValorTexto": "4299.9626",
+    "Valor": 4299.9626,
+    "Variacao": 255.11,
+    "VariacaoMensal": 4.81,
+    "Amostra": 58
+  },
+  {
+    "Mes": 6,
+    "Ano": 2012,
+    "ValorTexto": "4225.8739",
+    "Valor": 4225.8739,
+    "Variacao": 248.99,
+    "VariacaoMensal": -1.72,
+    "Amostra": 48
+  },
+  {
+    "Mes": 7,
+    "Ano": 2012,
+    "ValorTexto": "4591.7363",
+    "Valor": 4591.7363,
+    "Variacao": 279.2,
+    "VariacaoMensal": 8.66,
+    "Amostra": 68
+  },
+  {
+    "Mes": 8,
+    "Ano": 2012,
+    "ValorTexto": "4595.7565",
+    "Valor": 4595.7565,
+    "Variacao": 279.53,
+    "VariacaoMensal": 0.09,
+    "Amostra": 74
+  },
+  {
+    "Mes": 9,
+    "Ano": 2012,
+    "ValorTexto": "4558.5477",
+    "Valor": 4558.5477,
+    "Variacao": 276.46,
+    "VariacaoMensal": -0.81,
+    "Amostra": 64
+  },
+  {
+    "Mes": 10,
+    "Ano": 2012,
+    "ValorTexto": "4579.0447",
+    "Valor": 4579.0447,
+    "Variacao": 278.15,
+    "VariacaoMensal": 0.45,
+    "Amostra": 70
+  },
+  {
+    "Mes": 11,
+    "Ano": 2012,
+    "ValorTexto": "4770.0476",
+    "Valor": 4770.0476,
+    "Variacao": 293.93,
+    "VariacaoMensal": 4.17,
+    "Amostra": 63
+  },
+  {
+    "Mes": 12,
+    "Ano": 2012,
+    "ValorTexto": "4718.035",
+    "Valor": 4718.035,
+    "Variacao": 289.63,
+    "VariacaoMensal": -1.09,
+    "Amostra": 65
+  },
+  {
+    "Mes": 1,
+    "Ano": 2013,
+    "ValorTexto": "4841.439",
+    "Valor": 4841.439,
+    "Variacao": 299.82,
+    "VariacaoMensal": 2.62,
+    "Amostra": 72
+  },
+  {
+    "Mes": 2,
+    "Ano": 2013,
+    "ValorTexto": "4819.0813",
+    "Valor": 4819.0813,
+    "Variacao": 297.98,
+    "VariacaoMensal": -0.46,
+    "Amostra": 79
+  },
+  {
+    "Mes": 3,
+    "Ano": 2013,
+    "ValorTexto": "4925.3798",
+    "Valor": 4925.3798,
+    "Variacao": 306.76,
+    "VariacaoMensal": 2.21,
+    "Amostra": 97
+  },
+  {
+    "Mes": 4,
+    "Ano": 2013,
+    "ValorTexto": "5034.1394",
+    "Valor": 5034.1394,
+    "Variacao": 315.74,
+    "VariacaoMensal": 2.21,
+    "Amostra": 94
+  },
+  {
+    "Mes": 5,
+    "Ano": 2013,
+    "ValorTexto": "5195.8151",
+    "Valor": 5195.8151,
+    "Variacao": 329.09,
+    "VariacaoMensal": 3.21,
+    "Amostra": 77
+  },
+  {
+    "Mes": 6,
+    "Ano": 2013,
+    "ValorTexto": "5449.388",
+    "Valor": 5449.388,
+    "Variacao": 350.03,
+    "VariacaoMensal": 4.88,
+    "Amostra": 77
+  },
+  {
+    "Mes": 7,
+    "Ano": 2013,
+    "ValorTexto": "5451.9205",
+    "Valor": 5451.9205,
+    "Variacao": 350.24,
+    "VariacaoMensal": 0.05,
+    "Amostra": 85
+  },
+  {
+    "Mes": 8,
+    "Ano": 2013,
+    "ValorTexto": "5273.0884",
+    "Valor": 5273.0884,
+    "Variacao": 335.47,
+    "VariacaoMensal": -3.28,
+    "Amostra": 87
+  },
+  {
+    "Mes": 9,
+    "Ano": 2013,
+    "ValorTexto": "4957.346",
+    "Valor": 4957.346,
+    "Variacao": 309.4,
+    "VariacaoMensal": -5.99,
+    "Amostra": 85
+  },
+  {
+    "Mes": 10,
+    "Ano": 2013,
+    "ValorTexto": "5040.2646",
+    "Valor": 5040.2646,
+    "Variacao": 316.24,
+    "VariacaoMensal": 1.67,
+    "Amostra": 81
+  },
+  {
+    "Mes": 11,
+    "Ano": 2013,
+    "ValorTexto": "5363.3631",
+    "Valor": 5363.3631,
+    "Variacao": 342.93,
+    "VariacaoMensal": 6.41,
+    "Amostra": 75
+  },
+  {
+    "Mes": 12,
+    "Ano": 2013,
+    "ValorTexto": "5709.3275",
+    "Valor": 5709.3275,
+    "Variacao": 371.5,
+    "VariacaoMensal": 6.45,
+    "Amostra": 86
+  },
+  {
+    "Mes": 1,
+    "Ano": 2014,
+    "ValorTexto": "5734.957",
+    "Valor": 5734.957,
+    "Variacao": 373.61,
+    "VariacaoMensal": 0.45,
+    "Amostra": 98
+  },
+  {
+    "Mes": 2,
+    "Ano": 2014,
+    "ValorTexto": "5903.1121",
+    "Valor": 5903.1121,
+    "Variacao": 387.5,
+    "VariacaoMensal": 2.93,
+    "Amostra": 80
+  }
+]
