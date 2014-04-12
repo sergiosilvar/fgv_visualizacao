@@ -1,0 +1,1996 @@
+2014-04-10 22:52:10,344 [MainThread  ] [DEBUG]  Parametro nome:  
+2014-04-10 22:59:59,609 [MainThread  ] [DEBUG]  Parametro nome:  
+2014-04-10 23:00:46,148 [MainThread  ] [DEBUG]  Parametro nome: teste 
+2014-04-10 23:02:26,785 [MainThread  ] [DEBUG]  Parametro nome:  
+2014-04-10 23:02:44,651 [MainThread  ] [DEBUG]  Parametro nome:  
+2014-04-10 23:03:34,151 [MainThread  ] [DEBUG]  Parametro nome:  
+2014-04-10 23:03:52,778 [MainThread  ] [DEBUG]  Parametro nome:  
+2014-04-10 23:04:18,644 [MainThread  ] [DEBUG]  Parametro nome:  
+2014-04-10 23:05:00,950 [MainThread  ] [DEBUG]  Parametro nome: teste post 
+2014-04-10 23:25:39,283 [MainThread  ] [DEBUG]  Parametro nome: 30000 
+2014-04-11 19:47:10,434 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	None
+Capacidade Tanque:	None
+Unidades Tempo:	None
+Tempo Preparo:	
+Modal Entrada:	
+Modal Saida:	None
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	None
+Volume Modal Entrada:	None
+Volume Modal Saida:	None
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 19:50:12,545 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	None
+Capacidade Tanque:	None
+Unidades Tempo:	None
+Tempo Preparo:	
+Modal Entrada:	
+Modal Saida:	None
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	None
+Volume Modal Entrada:	None
+Volume Modal Saida:	None
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 19:51:04,114 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	None
+Capacidade Tanque:	None
+Unidades Tempo:	None
+Tempo Preparo:	
+Modal Entrada:	
+Modal Saida:	None
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	None
+Volume Modal Entrada:	None
+Volume Modal Saida:	None
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 19:56:32,140 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	None
+Capacidade Tanque:	None
+Unidades Tempo:	None
+Tempo Preparo:	
+Modal Entrada:	
+Modal Saida:	None
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	None
+Volume Modal Entrada:	None
+Volume Modal Saida:	None
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 19:57:42,812 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	None
+Capacidade Tanque:	None
+Unidades Tempo:	None
+Tempo Preparo:	
+Modal Entrada:	
+Modal Saida:	None
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	None
+Volume Modal Entrada:	None
+Volume Modal Saida:	None
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:00:01,308 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	None
+Capacidade Tanque:	None
+Unidades Tempo:	None
+Tempo Preparo:	
+Modal Entrada:	
+Modal Saida:	None
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	None
+Volume Modal Entrada:	None
+Volume Modal Saida:	None
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:06:22,022 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	300000
+Capacidade Tanque:	None
+Unidades Tempo:	None
+Tempo Preparo:	
+Modal Entrada:	
+Modal Saida:	None
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	None
+Volume Modal Entrada:	None
+Volume Modal Saida:	None
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:06:22,033 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 20:06:22,036 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 0 tanques.
+2014-04-11 20:06:58,140 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:06:58,154 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 20:06:58,167 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 20:07:46,266 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:07:46,272 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 20:07:46,280 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 20:09:11,332 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:09:11,338 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 20:09:11,348 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 20:10:36,092 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:10:36,096 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 20:10:36,107 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 20:11:14,286 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:11:14,290 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 20:11:14,299 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 20:13:08,654 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:13:08,661 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 20:13:08,671 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 20:14:15,572 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:14:15,578 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 20:14:15,586 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 20:18:27,506 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:18:27,513 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 20:18:27,520 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 20:23:29,637 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:23:29,644 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 20:23:29,654 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 20:25:10,503 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:25:10,509 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 20:25:10,516 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 20:25:23,891 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:25:23,898 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 20:25:23,907 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 20:25:49,007 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	0
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	2
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:26:08,549 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	0
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	20
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:26:08,555 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 20:26:08,562 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 2 tanques.
+2014-04-11 20:26:38,246 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	0
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	20
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:26:38,255 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 20:26:38,263 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 2 tanques.
+2014-04-11 20:27:37,233 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	0
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	20
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:27:37,239 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 20:27:37,243 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 2 tanques.
+2014-04-11 20:27:40,709 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	0
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	20
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:27:40,717 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 20:27:40,723 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 2 tanques.
+2014-04-11 20:27:46,548 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	0
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	20
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:27:46,552 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 20:27:46,559 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 2 tanques.
+2014-04-11 20:28:13,493 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	500000
+Capacidade Tanque:	1000
+Unidades Tempo:	0
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	20
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:28:13,499 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 20:28:13,983 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 75 tanques.
+2014-04-11 20:28:42,740 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	
+Producao Mensal:	500000
+Capacidade Tanque:	1000
+Unidades Tempo:	0
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	20
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:28:42,749 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 20:28:43,221 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 75 tanques.
+2014-04-11 20:31:14,720 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:31:14,730 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 20:31:14,740 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 20:33:15,734 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:33:15,742 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 20:33:15,750 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 20:33:32,013 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:33:32,019 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 20:33:32,029 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 20:34:30,240 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 20:34:30,244 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 20:34:30,253 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 22:00:32,049 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 22:00:32,104 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 22:00:32,111 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 22:03:34,246 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 22:03:34,280 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 22:03:34,293 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 22:05:23,086 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 22:05:23,095 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 22:05:23,105 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 22:05:45,730 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 22:05:45,737 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 22:05:45,749 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 22:06:07,201 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 22:06:07,207 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 22:06:07,214 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 22:07:20,306 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 22:07:20,315 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 22:07:20,322 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 22:08:49,961 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 22:08:49,967 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 22:08:49,974 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 22:09:40,352 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 22:09:40,359 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 22:09:40,368 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 22:11:13,913 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 22:11:13,921 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 22:11:13,931 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 22:37:08,015 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 22:37:08,023 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 22:37:08,032 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 22:45:06,733 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 22:45:06,740 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 22:45:06,750 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 22:45:40,418 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 22:45:40,426 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 22:45:40,438 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 23:40:32,644 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	600000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 23:40:32,661 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 23:40:32,674 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 4 tanques.
+2014-04-11 23:44:22,572 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 23:44:22,595 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 23:44:22,605 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 23:56:34,259 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 23:56:34,269 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 23:56:34,276 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-11 23:57:37,079 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-11 23:57:37,085 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-11 23:57:37,098 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 00:15:28,825 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 00:15:28,835 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 00:15:28,845 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 00:16:47,930 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 00:16:48,000 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 00:16:48,007 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 00:28:10,158 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 00:28:10,168 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 00:28:10,176 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 00:29:03,072 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 00:29:03,079 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 00:29:03,171 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 08:39:56,444 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 08:39:56,453 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 08:39:56,460 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 08:50:18,210 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 08:50:18,223 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 08:50:18,230 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 08:51:02,137 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 08:51:02,144 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 08:51:02,154 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 08:51:15,161 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 08:51:15,167 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 08:51:15,176 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 08:53:50,338 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 08:53:50,344 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 08:53:50,351 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:23:44,894 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:23:44,903 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:23:44,914 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:23:47,598 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:23:47,605 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:23:47,618 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:24:15,203 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:24:15,210 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:24:15,217 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:24:16,680 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:24:16,687 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:24:16,697 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:24:19,414 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:24:19,421 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:24:19,428 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:24:20,417 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:24:20,424 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:24:20,430 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:24:21,482 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:24:21,487 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:24:21,496 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:24:22,812 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:24:22,819 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:24:22,825 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:24:23,986 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:24:23,990 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:24:23,997 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:39:21,061 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:39:21,072 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:39:21,082 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:40:16,298 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:40:16,305 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:40:16,315 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:40:40,174 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:40:40,180 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:40:40,187 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:40:54,851 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:40:54,858 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:40:54,868 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:42:08,484 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:42:08,492 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:42:08,500 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:43:13,002 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:43:13,009 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:43:13,019 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:44:30,058 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:44:30,065 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:44:30,073 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:45:56,312 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:45:56,319 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:45:56,325 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:46:21,556 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:46:21,562 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:46:21,573 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:47:06,944 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:47:06,950 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:47:06,959 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:47:39,279 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:47:39,285 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:47:39,292 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:47:59,226 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:47:59,233 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:47:59,240 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:48:23,186 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:48:23,194 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:48:23,203 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:48:46,720 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:48:46,727 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:48:46,736 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:49:15,638 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:49:15,644 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:49:15,654 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:55:12,476 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:55:12,483 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:55:12,490 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 09:59:43,049 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 09:59:43,055 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 09:59:43,065 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:00:05,153 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:00:05,160 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:00:05,170 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:01:39,473 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:01:39,480 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:01:39,490 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:02:12,967 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:02:12,974 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:02:12,982 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:03:13,996 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:03:14,003 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:03:14,012 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:03:18,206 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:03:18,213 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:03:18,220 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:04:10,427 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:04:10,433 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:04:10,440 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:04:51,842 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:04:51,848 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:04:51,855 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:09:49,279 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:09:49,286 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:09:49,293 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:11:06,010 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:11:06,019 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:11:06,030 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:15:06,993 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:15:06,999 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:15:07,006 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:15:51,549 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:15:51,555 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:15:51,562 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:15:57,848 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:15:57,855 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:15:57,865 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:15:58,943 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:15:58,950 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:15:58,957 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:16:19,345 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:16:19,352 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:16:19,361 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:17:25,138 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:17:25,145 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:17:25,154 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:18:38,131 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:18:38,138 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:18:38,145 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:19:04,744 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:19:04,752 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:19:04,760 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:19:47,038 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:19:47,045 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:19:47,055 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:21:12,529 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	720
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:21:12,535 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:21:12,792 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:23:09,479 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	12
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:23:09,486 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:23:09,492 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 5 tanques.
+2014-04-12 10:24:00,530 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:24:00,538 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:24:00,545 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:24:13,219 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:24:13,224 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:24:13,233 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:24:17,878 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:24:17,884 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:24:17,892 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:24:19,010 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:24:19,016 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:24:19,026 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:24:20,137 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:24:20,144 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:24:20,151 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:24:21,197 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:24:21,203 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:24:21,210 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:24:22,145 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:24:22,151 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:24:22,161 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:25:41,371 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	10
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:25:41,380 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:25:41,384 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 4 tanques.
+2014-04-12 10:25:51,908 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	10
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:25:51,914 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:25:51,920 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 4 tanques.
+2014-04-12 10:26:02,967 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:26:02,973 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:26:02,980 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:36:50,197 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	continuo
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:36:50,204 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:36:50,213 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:36:53,436 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	continuo
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:36:53,443 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:36:53,454 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:37:03,398 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	continuo
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:37:03,404 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:37:03,414 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:37:03,848 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	continuo
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:37:03,854 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:37:03,864 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:37:28,065 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	1
+Tempo Preparo:	continuo
+Modal Entrada:	continuo
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:37:28,073 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:37:28,084 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:37:31,466 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	1
+Tempo Preparo:	continuo
+Modal Entrada:	continuo
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:37:31,470 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:37:31,480 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:37:39,278 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	1
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:37:39,285 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:37:39,292 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:37:48,973 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	1
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	10
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:37:48,980 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:37:48,983 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:37:50,538 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	1
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	10
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:37:50,545 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:37:50,551 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:37:54,776 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	1
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:37:54,782 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:37:54,790 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:38:01,516 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	1
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	10
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:38:01,522 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:38:01,526 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:42:40,769 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:42:40,775 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:42:40,783 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:43:12,144 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	100
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:43:12,150 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:43:12,170 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.
+2014-04-12 10:43:59,266 [MainThread  ] [DEBUG]  Recebido Cenario
+Nome:	Cenario
+Producao Mensal:	300000
+Capacidade Tanque:	30000
+Unidades Tempo:	3
+Tempo Preparo:	continuo
+Modal Entrada:	discreto
+Modal Saida:	30
+Vazao Modal Entrada:	None
+Vazao Modal Saida:	30000
+Volume Modal Entrada:	None
+Volume Modal Saida:	30000
+Atraso Modal Entrada:	None
+Atraso Modal Saida:	None
+2014-04-12 10:43:59,273 [MainThread  ] [INFO ]  Início da simulação de dimensionamento.
+2014-04-12 10:43:59,282 [MainThread  ] [INFO ]  Fim da simulação de dimensionamento com 3 tanques.

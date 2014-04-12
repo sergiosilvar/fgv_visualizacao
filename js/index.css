@@ -1,0 +1,22 @@
+html {
+	height: 100%
+}
+
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0
+}
+
+
+#menu
+{
+float:left;
+width: 30%'
+}
+
+#area
+{
+float:left;
+width: 70%
+}
