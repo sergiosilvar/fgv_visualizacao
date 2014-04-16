@@ -57,6 +57,14 @@ function grafico_linha(cen){
 	cenario = cen;
 	var tanques = [];
 	data_col = [];
+	
+	col_names = []
+	for(var k in chart_linha.xs())
+		col_names.push(k)
+/*	
+	for(var k in col_names)
+		chart_linha.unload()
+*/	
 	for (var tanque in cen.volume){
 		//tanques.push(k)
 		//console.log('tanque: ' + tanque + ' - volume: ' + cen.volume[tanque])
@@ -68,7 +76,7 @@ function grafico_linha(cen){
 		data_col.push(col) 
 	}
 		//[tanques[0],cen.volume[tanques[0]]]
-	chart_linha.load({'columns':data_col})
+	chart_linha.load({'columns':data_col, 'unload' : col_names})
 	//chart.load({'columns':[['dataN', 1, 2, 3, 4]]});
 	//alert(data_col)
 }
