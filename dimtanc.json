@@ -1,0 +1,66 @@
+cenario = {
+    num_unid_tempo:10,
+    nome_tanques : ['TQ1','TQ2'],
+    qtd_tanques: 2,
+	volume: {
+		TQ1: [6000,
+		12000,
+		18000,
+		24000,
+		30000,
+		0,
+		0,
+		0,
+		0,
+		0],
+		TQ2: [0,
+		0,
+		0,
+		0,
+		0,
+		6000,
+		12000,
+		18000,
+		24000,
+		30000]
+	},
+	situacao: {
+		TQ1: [{
+			tam: 5,
+			fim: 4,
+			estado: "rec",
+			inicio: 0
+		},
+		{
+			tam: 1,
+			fim: 5,
+			estado: "env",
+			inicio: 5
+		},
+		{
+			tam: 4,
+			fim: 9,
+			estado: "par",
+			inicio: 6
+		}],
+		TQ2: [{
+			tam: 1,
+			fim: 0,
+			estado: "env",
+			inicio: 0
+		},
+		{
+			tam: 4,
+			fim: 4,
+			estado: "par",
+			inicio: 1
+		},
+		{
+			tam: 5,
+			fim: 9,
+			estado: "rec",
+			inicio: 5
+		}]
+	},
+	nome: "Cenario_Teste"
+}

@@ -11,12 +11,97 @@ body {
 
 #menu
 {
-float:left;
-width: 30%'
+	float:left;
+	width: 30%'
 }
 
 #area
 {
-float:left;
-width: 70%
+	float:left;
+	width: 70%
+}
+
+svg.chart
+{
+	border: 5px solid red ;
+	width: 900px;
+	height: 300px;
+}
+
+/* GANTTCHART*/
+
+.chart_gantt {
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+}
+ 
+.axis path,.axis line {
+	fill: none;
+	stroke: #000;
+	shape-rendering: crispEdges;
+}
+ 
+ /* rec, emp, pre, env, par*/
+ 
+.bar-rec {
+	fill: #33b5e5;
+}
+ 
+.bar-emp {
+	fill: #CC0000;
+}
+ 
+.bar-pre {
+	fill: #669900;
+}
+ 
+.bar-env {
+	fill: #33b5e5;
+}
+ 
+.bar-par {
+	fill: #ffbb33;
+}
+ 
+/* MEU GANTT */ 
+
+//http://colorbrewer2.org/ ['rgb(255,255,178)','rgb(254,204,92)','rgb(253,141,60)','rgb(240,59,32)','rgb(189,0,38)']
+.estado
+{
+	border:  3px  solid blue;
+}
+.estado-rec {
+	fill: #8dd3c7;
+}
+ 
+.estado-emp {
+	fill: #ffffb3;
+}
+ 
+.estado-pre {
+	fill: #bebada;
+}
+ 
+.estado-env {
+	fill: #fb8072;
+}
+ 
+.estado-par {
+	fill: lightgray;
+}
+
+.axis path, .axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font: 10px sans-serif;
+}
+
+.axis .grid-line{
+    stroke: black;
+    shape-rendering: crispEdges;
+    stroke-opacity: .2;
 }

@@ -18,11 +18,11 @@ LIMITE_ERRO = 0.0001
 TIPO_MODAL_CONTINUO = 'continuo'
 TIPO_MODAL_DISCRETO = 'discreto'
 TIPO_MODAL_NAVIO = 'navio'
-ESTADO_TANQUE_PARADO = 0#'par'
-ESTADO_TANQUE_RECEBENDO = 1#'rec'
-ESTADO_TANQUE_EM_PREPARO = 2#'emp'
-ESTADO_TANQUE_PREPARADO = 3#'pre'
-ESTADO_TANQUE_ENVIANDO = 4#'env'
+ESTADO_TANQUE_PARADO = 'par'
+ESTADO_TANQUE_RECEBENDO = 'rec'
+ESTADO_TANQUE_EM_PREPARO = 'emp'
+ESTADO_TANQUE_PREPARADO = 'pre'
+ESTADO_TANQUE_ENVIANDO = 'env'
 
 
 log.basicConfig(format='%(levelname)s :> %(asctime)s :> %(message)s', 
@@ -606,18 +606,40 @@ class CenarioDimensionamento(object):
     def exporta_json(self ):
         '''
         '''
-        json = OrderedDict()
+        json = {}
         json['nome'] = self.nome
 
-        json['volume'] = OrderedDict()
-        json['estado'] = OrderedDict()
-        
+        json['volume'] = {}
+        json['situacao'] = {}
+        json['qtd_tanques'] = self.qtd_tanques()
+        json['nome_tanques'] = [t.nome for t in self.parque.tanques]
+        json['num_unid_tempo'] = self.numero_unidades_tempo
         for t in self.parque.tanques:
+            # Exporta volume da forma como está.
             json['volume'][t.nome] = t.vol
-            json['estado'][t.nome] = t.est
+
+            # Exporta os estados em uma forma mais reduzida.
+            lista = [];
+            situacao = {'inicio':0, 'fim':0, 'tam':1,'estado':t.est[0]};
+            for i in range(1, len(t.est)):
+                # Se a i-ésima situação é diferente da atual...
+                if (situacao['estado'] != t.est[i]):
+                    # ... registra o fim da situação atual.
+                    situacao['fim'] = i-1;
+                    situacao['tam'] = situacao['fim'] - situacao['inicio'] + 1;   
+                    # Armazena na lista de situações.
+                    lista.append(situacao);
+                    # Cria uma nova siutação com o estado novo.
+                    situacao = {'inicio':i, 'fim':i, 'tam':1,'estado':t.est[i]}
+            
+                # Armazena a última situação.
+                if (i == len(t.est)-1):
+                    situacao['fim'] = i;
+                    situacao['tam'] = situacao['fim'] - situacao['inicio'] + 1;   
+                    lista.append(situacao)
+            json['situacao'][t.nome] = lista
         return json
-    
-    
+
     def exporta_distibuicao_vazao(self, unidade_tempo):
         '''
         Exporta as informações de distribuição de vazão de entrada e saída da 

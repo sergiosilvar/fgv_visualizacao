@@ -10,10 +10,14 @@
 
 
 <link rel="stylesheet" type="text/css" href="/js/c3.css">
+<link rel="stylesheet" type="text/css" href="/js/nv.d3.css">
 <link rel="stylesheet" type="text/css" href="/js/index.css">
 <script type="text/javascript" src="/js/d3.js" charset="utf-8"></script>
 <script type="text/javascript" src="/js/c3.js"></script>
 <script type="text/javascript" src="/js/index.js"></script>
+<script type="text/javascript" src="/js/nv.d3.min.js"></script>
+<script type="text/javascript" src="/js/gantt-chart-d3.js"></script>
+
 
 </head>
 <body>
@@ -55,10 +59,10 @@
 					Modal Saída <input name='tipo_modal_saida' value='discreto' />
 				</div>
 				<div>
-					Volume Entrada <input name='volume_modal_saida' value='30000' />
+					Volume Saída <input name='volume_modal_saida' value='30000' />
 				</div>
 				<div>
-					Vazao Entrada <input name='vazao_modal_saida' value='30000' />
+					Vazao Saída <input name='vazao_modal_saida' value='30000' />
 				</div>
 				<div>
 					Atraso Saída <input name='atraso_modal_saida' />
@@ -72,8 +76,14 @@
 
 	</span>
 	<span id='area'>
+		<svg id='chart_gantt'  class='chart' style=''></svg>
+
+		<svg id='chart_linhanv'  class='chart' style=''></svg>
+		<svg id='chart_areanv'  class='chart' style=''></svg>
+		<svg id='chart_barranv'  class='chart' style=''></svg>
+<!--
 		<div id='chart_linha'></div>
-		<div id='chart_barra'></div>
+-->	
 	</span>
 
 </body>

@@ -58,7 +58,7 @@ def teste():
                     tempo_preparo = 0, # Unidades de Tempo.
                     tipo_modal_entrada = dt.TIPO_MODAL_CONTINUO,  
                     tipo_modal_saida = dt.TIPO_MODAL_DISCRETO,
-                    numero_unidades_tempo = 720,
+                    numero_unidades_tempo = 10,
                     vazao_modal_entrada = None, 
                     vazao_modal_saida = 30000, 
                     volume_modal_entrada = None, 
@@ -99,7 +99,9 @@ def cenario(nome,
 					vazao_modal_entrada = vazao_modal_entrada,
 					vazao_modal_saida = vazao_modal_saida,
 					volume_modal_entrada = volume_modal_entrada,
-					volume_modal_saida = volume_modal_saida
+					volume_modal_saida = volume_modal_saida,
+					atraso_modal_entrada = atraso_modal_entrada,
+					atraso_modal_saida = atraso_modal_saida
 				  )
 	
 	cen.dimensiona_tanques()
