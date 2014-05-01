@@ -18,7 +18,8 @@ body {
 #area
 {
 	float:left;
-	width: 70%
+	width: 70%;
+    border: 2px solid blue;
 }
 
 svg.chart
@@ -41,28 +42,25 @@ svg.chart
 	shape-rendering: crispEdges;
 }
  
- /* rec, emp, pre, env, par*/
- 
-.bar-rec {
-	fill: #33b5e5;
+.bar {
+  fill: #33b5e5;
 }
- 
-.bar-emp {
-	fill: #CC0000;
+
+.bar-failed {
+fill: #CC0000;
 }
- 
-.bar-pre {
-	fill: #669900;
+
+.bar-running {
+  fill: #669900;
 }
- 
-.bar-env {
-	fill: #33b5e5;
+
+.bar-succeeded {
+fill: #33b5e5;
 }
- 
-.bar-par {
-	fill: #ffbb33;
+
+.bar-killed {
+  fill: #ffbb33;
 }
- 
 /* MEU GANTT */ 
 
 //http://colorbrewer2.org/ ['rgb(255,255,178)','rgb(254,204,92)','rgb(253,141,60)','rgb(240,59,32)','rgb(189,0,38)']

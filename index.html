@@ -17,6 +17,7 @@
 <script type="text/javascript" src="/js/index.js"></script>
 <script type="text/javascript" src="/js/nv.d3.min.js"></script>
 <script type="text/javascript" src="/js/gantt-chart-d3.js"></script>
+<script type="text/javascript" src="/dimtanc.json"></script>
 
 
 </head>
@@ -31,7 +32,7 @@
 					Produção <input type="text" name='producao_mensal' value='300000' />
 				</div>
 				<div>
-					Capacidade Tanque <input type="text" name='capacidade_tanque'
+					Cap. Tanque <input type="text" name='capacidade_tanque'
 						value='30000' />
 				</div>
 				<div>
@@ -75,12 +76,14 @@
 		</form>
 
 	</span>
-	<span id='area'>
-		<svg id='chart_gantt'  class='chart' style=''></svg>
+	<span id='area' name='area'>
+		<svg id='chart_ganttd3' class='chart' ></svg>
+		
 
 		<svg id='chart_linhanv'  class='chart' style=''></svg>
 		<svg id='chart_areanv'  class='chart' style=''></svg>
 		<svg id='chart_barranv'  class='chart' style=''></svg>
+		<svg id='chart_gantt'  class='chart' style=''></svg>
 <!--
 		<div id='chart_linha'></div>
 -->	

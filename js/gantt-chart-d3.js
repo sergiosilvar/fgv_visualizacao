@@ -8,18 +8,22 @@ d3.gantt = function() {
     var FIXED_TIME_DOMAIN_MODE = "fixed";
     
     var margin = {
-	top : 20,
-	right : 40,
-	bottom : 20,
-	left : 150
+	top : 25,
+	right : 25,
+	bottom : 25,
+	left : 25
     };
     var timeDomainStart = d3.time.day.offset(new Date(),-3);
     var timeDomainEnd = d3.time.hour.offset(new Date(),+3);
     var timeDomainMode = FIT_TIME_DOMAIN_MODE;// fixed or fit
     var taskTypes = [];
     var taskStatus = [];
-    var height = document.body.clientHeight - margin.top - margin.bottom-5;
-    var width = document.body.clientWidth - margin.right - margin.left-5;
+    
+	//var height = document.body.clientHeight - margin.top - margin.bottom-5;
+    var height = 300 - margin.top - margin.bottom-5;
+	
+	//var width = document.body.clientWidth - margin.right - margin.left-5;
+	var width = 900 - margin.right - margin.left-5;
 
     var tickFormat = "%H:%M";
 
@@ -72,8 +76,9 @@ d3.gantt = function() {
 	initTimeDomain(tasks);
 	initAxis();
 	
-	var svg = d3.select("body")
-	.append("svg")
+//	var svg = d3.select("body")
+//	.append("svg")
+	var svg = d3.select('#chart_ganttd3')
 	.attr("class", "chart_gantt")
 	.attr("width", width + margin.left + margin.right)
 	.attr("height", height + margin.top + margin.bottom)
@@ -83,22 +88,43 @@ d3.gantt = function() {
 	.attr("height", height + margin.top + margin.bottom)
 	.attr("transform", "translate(" + margin.left + ", " + margin.top + ")");
 	
-      svg.selectAll(".chartgantt")
-	 .data(tasks, keyFunction).enter()
-	 .append("rect")
-	 .attr("rx", 5)
-         .attr("ry", 5)
-	 .attr("class", function(d){ 
-	     if(taskStatus[d.status] == null){ return "bar";}
-	     return taskStatus[d.status];
-	     }) 
-	 .attr("y", 0)
-	 .attr("transform", rectTransform)
-	 .attr("height", function(d) { return y.rangeBand(); })
-	 .attr("width", function(d) { 
-	     return (x(d.endDate) - x(d.startDate)); 
-	     });
-	 
+    svg.selectAll(".chartgantt")
+    .data(tasks, keyFunction).enter()
+    .append("rect")
+    .attr("rx", 0)
+    .attr("ry", 0)
+    .attr("class", function(d){ 
+        if(taskStatus[d.status] == null){ return "bar";}
+        return taskStatus[d.status];
+     }) 
+    .attr("y", 0)
+    .attr("transform", rectTransform)
+    .attr("height", function(d) { return y.rangeBand(); })
+    .attr("width", function(d) { 
+        _width = x(d.endDate) - x(d.startDate);
+        if (_width == 0)
+            console.log('achei inicio '+d.inicio + ' - fim ' + d.fim + ' - estado: ' );
+        return (x(d.endDate) - x(d.startDate)); 
+     })
+    .attr('tanque', function(d){
+        return d.taskName;
+    })
+    .attr('estado', function(d){
+        return d.status;
+    })
+    .attr('inicio', function(d){
+        return d.inicio;
+    })
+    .attr('tam', function(d){
+        return d.tam;
+    })
+    .attr('fim', function(d){
+        return d.fim;
+    })
+
+
+    ;
+
 	 
 	 svg.append("g")
 	 .attr("class", "x axis")
@@ -124,8 +150,8 @@ d3.gantt = function() {
         
         rect.enter()
          .insert("rect",":first-child")
-         .attr("rx", 5)
-         .attr("ry", 5)
+         .attr("rx", 0)
+         .attr("ry", 0)
 	 .attr("class", function(d){ 
 	     if(taskStatus[d.status] == null){ return "bar";}
 	     return taskStatus[d.status];
