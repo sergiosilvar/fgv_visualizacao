@@ -359,8 +359,8 @@ $(document).ready(function(){
 						grafico_linha(datum);
 						grafico_area(datum);
 						grafico_barra(datum);
-						grafico_gantt(data);
-						//gantt_d3();
+						//grafico_gantt(data);
+						gantt_d3(data);
 					},
 					error: function(jqXHR, textStatus, errorThrown) 
 					{
@@ -369,7 +369,7 @@ $(document).ready(function(){
 				});
 		e.preventDefault(); //STOP default action
 	});
-    gantt_d3(cenario);
+
 });
 
 
